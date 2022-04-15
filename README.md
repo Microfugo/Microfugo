@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3> Ricardo Rodrigues, Desenvolvedor Front-End </h3>
 
-<!--
-**Microfugo/Microfugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
++ ### Habilidades:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt='javascript' height='40'><img src="https://www.svgrepo.com/show/303157/react-logo.svg" alt='react' height='40'>
+<img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='typescript' height='40'>
+<img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt='nodejs' height='40'>
+<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt='postgres' height='40'>
+<img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt='firebase' height='40'>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt='mysql' height='40'>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt='mongodb' height='40'>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt='git' height='40'>
+<img src="https://www.svgrepo.com/show/305241/github.svg" alt='github' height='40'>
+<img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt='docker' height='40'>
+
+<hr>
+
+[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg' alt='github' height='40' wisth="85" target="_blank">](https://github.com/davissbf)
+[<img src='https://cdn.worldvectorlogo.com/logos/linkedin.svg' alt='linkedin' height='40' width="85" target="_blank">](https://www.linkedin.com/in/ricardo-alves-601b46106/) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Microfugo&show_icons=true&theme=radical)
