@@ -4,9 +4,7 @@
 
 + ### Habilidades:</h4>
 
-
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt='mysql' height='40'>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt='git' height='40'>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt='mysql' height='40'><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt='git' height='40'>
 <img src="https://www.svgrepo.com/show/305241/github.svg" alt='github' height='40'>
 
 <hr>
