@@ -1,4 +1,4 @@
-<h3> Ricardo Rodrigues, Desenvolvedor Front-End </h3>
+<h3> Ricardo Rodrigues, Desenvolvedor </h3>
 
 <hr>
 
