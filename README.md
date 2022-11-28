@@ -1,7 +1,7 @@
 <h3> Ricardo Rodrigues, Desenvolvedor </h3>
 
 <div>
-  <a href="github.com/Microfugo">
+  <a href="github.com/Microfugo/Microfugo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Microfugo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=Microfugo&layout=compact&langs_count=16&theme=dracula"/>
   </div>
