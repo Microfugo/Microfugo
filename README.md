@@ -1,4 +1,4 @@
-<h3> Bem vindo ao meu GitHub, meu nome é Ricardo😁.</h3>
+<h3> Bem vindo ao meu GitHub 😎.</h3>
 
 <div>
   
