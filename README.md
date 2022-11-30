@@ -1,4 +1,4 @@
-<h3> Ricardo Rodrigues, Desenvolvedor </h3>
+<h3> Bem vindo ao meu GitHub, meu nome é Ricardo e essas são algumas informações sobre mim 😁.</h3>
 
 <div>
   
