@@ -17,7 +17,7 @@ Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
   
   ##
   
-  Meu grafico dos ultimos dias  <img align="center" alt="" height="30" width"40" src = "https://user-images.githubusercontent.com/50929472/205205467-3689bddd-034a-4ea4-86bb-4e45ad7e38e4.png">
+  Meu grafico dos ultimos dias  <img align="center" alt="" height="30" width"40" src = "(https://user-images.githubusercontent.com/50929472/205205467-3689bddd-034a-4ea4-86bb-4e45ad7e38e4.png)">
 
   </div>
   
