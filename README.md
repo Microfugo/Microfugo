@@ -17,7 +17,8 @@ Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
   
   ##
   
-  Meu grafico dos ultimos dias ![image](https://user-images.githubusercontent.com/50929472/205205085-c4f39075-354b-48f5-b58e-b5768ae41dc4.png)
+  Meu grafico dos ultimos dias <img height="20em" src="https://user-images.githubusercontent.com/50929472/205205085-c4f39075-354b-48f5-b58e-b5768ae41dc4.png)"/>
+  </div>
   
   <div>
   
