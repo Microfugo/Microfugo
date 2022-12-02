@@ -22,7 +22,7 @@ Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
   </div>
   
   
-
+Contatos que são importantes ➿
 
   <div>
   
