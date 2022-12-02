@@ -22,7 +22,7 @@ Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
   </div>
   
   
-Contatos que são importantes ➿
+
 
   <div>
   
@@ -33,9 +33,13 @@ Contatos que são importantes ➿
    ##
 
 <div>
+  
+  Contatos que são importantes ➿
   <a href="https://instagram.com/ricardounbfp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/mwlite/in/ricardo-alves-601b46106" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
+  <div>
   ##
   
   Melhor do que ver os commits de forma sem graça, uma interação 🐍
