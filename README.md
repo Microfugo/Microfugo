@@ -17,6 +17,8 @@ Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
   
   ##
   
+  Meu grafico dos ultimos dias ![image](https://user-images.githubusercontent.com/50929472/205205085-c4f39075-354b-48f5-b58e-b5768ae41dc4.png)
+  
   <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Microfugo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
