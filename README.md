@@ -1,7 +1,11 @@
 <h3> Bem vindo ao meu GitHub 😎.</h3>
 
+Olá, meu nome é Ricardo.
 
-Ferramentas 😎
+Estou aprendendo mais sobre a melhor área de todas... Computação. Frontend é meu maior foco atualmente e estou gostando bastante, pode ficar a vontade para ver meus projetos e deixar um feedback(sempre muito bem vindos).
+
+
+Algumas ferramentas que ja tive a oportunidade de me aprofundar mais 😉
 
 <div style ="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width"40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
